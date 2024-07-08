@@ -26,3 +26,6 @@ N/A
 ## Questions?
 
 Contact alfredotumax026@gmail.com for any questions and to veiw more projects, go to https://github.com/yourvza
+
+## LINKS
+https://github.com/yourvza/Snippet-Text-Editor
